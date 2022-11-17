@@ -1,1 +1,3 @@
-# odin-recipes
+# Odin Recipes
+
+This website will show a few recipes.
